@@ -7,5 +7,6 @@
 ```bash
 git clone git@github.com:SimonSiefke/nextjs-cannot-read-property-startsWith-of-null.git &&
 cd nextjs-cannot-read-property-startsWith-of-null &&
+npm ci &&
 npm run build
 ```
